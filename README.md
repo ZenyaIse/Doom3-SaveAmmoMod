@@ -8,4 +8,4 @@ This mod makes the game more difficult by decreasing the ammo quantity and the c
 2) Start Doom 3 as usual, then choose Mods from the game menu.
 3) Select **Save Ammo mod** and play.
 
-Web site: http://doom.zenya.info
+Web site: https://doom.zenya.info
